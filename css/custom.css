@@ -1,0 +1,43 @@
+.jumbotron{
+	background:url(../images/techriceBackground.jpg);
+	height:500px;
+	padding:0;
+}
+
+.navbar{
+	margin-bottom: 0px;
+}
+
+.jumbotron-content{
+	color:white;
+	text-align: center;
+}
+
+
+.bluebox{
+	background:#2e98cc;
+	height:230px;
+	color:aliceblue
+	padding:0 20px;
+	overflow: hidden;
+	font-size:120%;
+}
+
+
+.redbox{
+	background:red;
+	height:230px;
+	color:aliceblue
+	padding:0 20px;
+	overflow: hidden;
+	font-size:120%;
+}
+
+.yeollowbox{
+	background:yellow;
+	height:230px;
+	color:aliceblue
+	padding:0 20px;
+	overflow: hidden;
+	font-size:120%;
+}
